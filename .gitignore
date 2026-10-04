@@ -1,0 +1,7 @@
+__pycache__/
+.env
+.env.*
+companies.csv
+contacts*.csv
+outreach-tracker.csv
+pilot-log.csv

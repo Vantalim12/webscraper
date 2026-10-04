@@ -1,0 +1,32 @@
+{
+  "outreach.py": {
+    "mtime": 1791081555.6169283,
+    "seen": 1791081790.5291574,
+    "ast_hash": "4fbb0bbfa96ed2ddb3ef53eb9e0d28d2",
+    "semantic_hash": ""
+  },
+  "test_outreach.py": {
+    "mtime": 1791081279.5277123,
+    "seen": 1791081790.5291622,
+    "ast_hash": "01ad95f8b7183eb1faf9c1a3fe5dff69",
+    "semantic_hash": ""
+  },
+  "CONTEXT.md": {
+    "mtime": 1791081555.8729322,
+    "seen": 1791081790.5291662,
+    "ast_hash": "752dff4d5b894e373a74c3773f524a7d",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1791081623.3339465,
+    "seen": 1791081790.5291784,
+    "ast_hash": "d4de8a526b62dc46eab7036a269f9a47",
+    "semantic_hash": ""
+  },
+  "email-outreach-plan.md": {
+    "mtime": 1791081702.5211313,
+    "seen": 1791081790.5291834,
+    "ast_hash": "fd7f3b656f68401c5ccccc9b5921b56c",
+    "semantic_hash": ""
+  }
+}
